@@ -64,11 +64,7 @@ public class sort {
                     array[i] = array[j];
                     array[j] = temp;
                 }
-
             }
-
         }
-
-
     }
 }
